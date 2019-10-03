@@ -283,10 +283,12 @@ input[type=submit] {
 
 
 }
+/* made images bigger but I could not seem to get the fixed images on there without it cropping */
 
 .work img {
    
-    width: 100%;
+    width: 400px;
+    position: sticky;
 }
 
 .auth-image {
