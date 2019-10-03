@@ -269,9 +269,14 @@ input[type=submit] {
 
 .work img {
    
-    width: 150%;
+    width: 100%;
 }
 
+.auth-image {
+    margin-bottom: 15px;
+    width: 100%;
+
+}
   
 
 
